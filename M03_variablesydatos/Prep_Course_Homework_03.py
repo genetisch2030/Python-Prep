@@ -15,7 +15,7 @@ print(a)
 
 # In[3]:
 
-
+type(8.5)
 
 
 
@@ -23,7 +23,7 @@ print(a)
 
 # In[8]:
 
-
+type(a)
 
 
 
@@ -31,7 +31,7 @@ print(a)
 
 # In[2]:
 
-
+nombre='Francisco'
 
 
 # 5) Crear una variable que contenga un número complejo
