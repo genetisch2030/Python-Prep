@@ -7,8 +7,8 @@
 
 # In[7]:
 
-elemento=2
-print(elemento)
+a=2
+print(a)
 
 
 # 2) Imprimir el tipo de dato de la constante 8.5
