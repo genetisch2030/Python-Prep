@@ -5,6 +5,10 @@
 
 # 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
 
+a=4
+print(a)
+
+
 # In[7]:
 
 
@@ -12,42 +16,25 @@
 
 # 2) Imprimir el tipo de dato de la constante 8.5
 
+print(type(8.5))
 # In[3]:
 
-
-
-
-
 # 3) Imprimir el tipo de dato de la variable creada en el punto 1
-
+print(type(a))
 # In[8]:
 
-
-
-
-
 # 4) Crear una variable que contenga tu nombre
+nombre="genetisch"
 
 # In[2]:
 
-
-
-
 # 5) Crear una variable que contenga un número complejo
-
+complex_number=5+4i
 # In[3]:
 
-
-
-
-
 # 6) Mostrar el tipo de dato de la variable crada en el punto 5
-
+print(type(complex_number))
 # In[4]:
-
-
-
-
 
 # 7) Crear una variable que contenga el valor del número Pi redondeado a 4 decimales
 
@@ -60,18 +47,13 @@ pi = 3.1416
 # 8) Crear una variable que contenga el valor 'True' y otra que contenga el valor True. ¿Se trata de lo mismo?
 
 # In[3]:
-
-
-
-
+verdad=True
+palabra="True"
 
 # 9) Imprimir el tipo de dato correspondientes a las variables creadas en el punto 8
-
+print(type(verdad))
+print(type(palabra))
 # In[5]:
-
-
-
-
 
 # 10) Asignar a una variable, la suma de un número entero y otro decimal
 
